@@ -17,8 +17,6 @@ I love building clean, efficient, scalable, and user-friendly applications while
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinay-srivastava-2005g5)
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevilGodfather)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhinaysrivastava11@outlook.com)
 
 ---
