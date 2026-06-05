@@ -1,127 +1,233 @@
-# 💫 About Me:
-👋 Hi, I'm Abhinay Srivastava!  
-I'm a passionate developer with a keen interest in AI, ML, Data Science, and futuristic technologies.  
-I love building clean, efficient, scalable, and user-friendly applications while continuously learning new technologies 🚀
+<h1 align="center">Hi 👋, I'm Abhinay Srivastava</h1>
 
-- 🔭 Currently working on: Data Structures & Algorithms (DSA)
-- 🌱 Learning: AI Systems, Cloud Computing, Advanced Java, and Full Stack Development
-- 👯 Looking to collaborate on: Open Source Projects & GSoC
-- 💡 Interests: Artificial Intelligence, Web Development, Automation, Game Development
-- ⚡ Fun fact: I love building futuristic JARVIS-style systems 🤖
+<h3 align="center">
+🚀 B.Tech CSE Student | AI & Full Stack Developer | Open Source Enthusiast
+</h3>
 
-📫 Reach me at: **abhinaysrivastava11@outlook.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinaylab&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-# 🌐 Socials:
+# 💫 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinay-srivastava-2005g5)
+🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and futuristic technologies.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhinaysrivastava11@outlook.com)
+💻 I enjoy building scalable applications, automation systems, and intelligent software solutions.
 
----
+🌱 Constantly learning and improving through projects, open-source contributions, and problem-solving.
 
-# 💻 Tech Stack:
+- 🔭 Currently working on **Data Structures & Algorithms**
+- 🌱 Learning **AI Systems, Cloud Computing, Advanced Java & Full Stack Development**
+- 👯 Looking to collaborate on **Open Source Projects & GSoC**
+- 💡 Interests: **Artificial Intelligence, Automation, Web Development & Game Development**
+- ⚡ Fun Fact: **I love building JARVIS-style AI systems**
 
-## 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+📫 Reach me at:
 
----
-
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**abhinaysrivastava11@outlook.com**
 
 ---
 
-## 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abhinay-srivastava-2005g5" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:abhinaysrivastava11@outlook.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
-## ☁️ Cloud / Database / Tools
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 🎯 2026 Goals
+
+- 🚀 Contribute to major Open Source Projects
+- 🌟 Get selected in GSoC
+- 🤖 Build Production-Ready AI Applications
+- ☁️ Learn Cloud Architecture
+- 📚 Master DSA & System Design
+- 💼 Secure Software Development Internship
 
 ---
 
-## 🎮 Creative / Game Dev
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</p>
+
+## AI / ML / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+## Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
+</p>
+
+## Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,godot,blender" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Vrinda AI Assistant
-A futuristic AI-powered assistant inspired by JARVIS with voice interaction, automation, and modern UI.
+## 🤖 Vrinda AI Assistant
 
-### 🚆 Smart Railway Asset Tracking System
-AI-based monitoring and tracking system for railway infrastructure and fittings.
+A futuristic AI-powered virtual assistant inspired by JARVIS.
 
-### 🌱 Environmental Education Gamification Platform
-Interactive sustainability learning platform for students using gamification concepts.
+### Features
+- Voice Interaction
+- AI Responses
+- Task Automation
+- Modern UI
+- Smart Assistance
+
+### Tech Stack
+Java • Python • AI APIs • Firebase
 
 ---
 
-# 📊 GitHub Stats:
+## 🚆 Smart Railway Asset Tracking System
 
-![](https://github-readme-stats.vercel.app/api?username=abhinaylab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+AI-powered monitoring and tracking solution for railway infrastructure.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinaylab&theme=tokyonight&hide_border=true&cache_seconds=1800)
+### Features
+- Asset Monitoring
+- AI Detection
+- Data Analytics
+- Infrastructure Tracking
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
+### Tech Stack
+Python • OpenCV • Machine Learning
+
+---
+
+## 🌱 Environmental Education Gamification Platform
+
+Interactive sustainability learning platform for students.
+
+### Features
+- Gamification
+- Quizzes
+- Progress Tracking
+- Environmental Awareness
+
+### Tech Stack
+HTML • CSS • JavaScript
+
+---
+
+# 🏆 Achievements
+
+- 🎯 Active Open Source Learner
+- 💻 Consistent DSA Practice
+- 🚀 Multiple AI & Web Projects Built
+- 🌱 GSoC Aspirant
+- 📚 B.Tech Computer Science Student
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaylab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=abhinaylab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhinaylab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=tokyo-night)
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=tokyo-night"/>
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 💻 Coding Profiles
 
-![](https://github-contributor-stats.vercel.app/api?username=abhinaylab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+Add your coding profile links here:
+
+- 🔥 LeetCode
+- ⚡ Codeforces
+- 📚 GeeksforGeeks
+- 🏆 HackerRank
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Java
+- Cloud Computing
+- AI Agents
+- Machine Learning
+- System Design
+- Competitive Programming
 
 ---
 
 <div align="center">
 
-### 👀 Profile Views
+### 💖 Thanks for Visiting My Profile!
 
-![](https://komarev.com/ghpvc/?username=abhinaylab&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-### 💖 Thanks for visiting my profile!
+⭐ If you like my work, consider following me and checking out my repositories.
 
 </div>
