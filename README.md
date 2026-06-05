@@ -44,17 +44,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Contribute to major Open Source Projects
-- 🌟 Get selected in GSoC
-- 🤖 Build Production-Ready AI Applications
-- ☁️ Learn Cloud Architecture
-- 📚 Master DSA & System Design
-- 💼 Secure Software Development Internship
-
----
-
 # 💻 Tech Stack
 
 ## Languages
