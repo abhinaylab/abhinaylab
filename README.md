@@ -77,6 +77,14 @@ public class AbhinaySrivastava {
 
 ---
 
+### 🧠 Problem Solving
+
+<p align="center">
+<img src="https://leetcard.abhinaylabs.com/veer24-tech?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### 🏥 Hospital Management System
