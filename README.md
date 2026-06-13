@@ -135,19 +135,19 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=abhinaylab&theme=tokyonight&hide_border=true" />
 
 </div>
 
