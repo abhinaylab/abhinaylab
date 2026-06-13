@@ -191,12 +191,10 @@ End-to-end recruitment platform with automated resume screening and candidate ra
 
 <p align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepkaashyapp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep-kumar-kashyap)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kuldeepkashyap0206)
-[![Resume](https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K_HdBsetse0F3SDf5LcLRt-quOAtZ7WL/view)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinaylab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinaysrivastava11)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinaysrivastava11@outlook.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhinaylabs)
 </p>
 
 ---
