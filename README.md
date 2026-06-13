@@ -77,14 +77,6 @@ public class AbhinaySrivastava {
 
 ---
 
-### 🧠 Problem Solving
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/abhinaylabs?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
 ## Featured Projects
 
 ### 🏥 Hospital Management System
@@ -102,6 +94,14 @@ A well-architected hospital management backend built to learn and demonstrate Sp
 End-to-end recruitment platform with automated resume screening and candidate ranking. Integrates Firebase for real-time data sync and Google APIs for document parsing.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
+
+---
+
+### 🧠 Problem Solving
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/abhinaylabs?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ---
 
