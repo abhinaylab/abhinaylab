@@ -1,174 +1,200 @@
-<h1 align="center">Hi 👋, I'm Abhinay Srivastava</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 B.Tech CSE Student | AI & Full Stack Developer | Open Source Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kuldeep%20Kumar%20Kashyap&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20DSA&descAlignY=58&descSize=18&descColor=94a3b8"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinaylab&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
----
+<div align="center">
 
-# 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+Java+backends;Spring+Boot+%7C+REST+APIs+%7C+JWT+Security;Solving+DSA+problems+daily;Future+Software+Engineer)](https://git.io/typing-svg)
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Software Development, and futuristic technologies.
+[![Profile Views](https://komarev.com/ghpvc/?username=abhinaylab&label=Profile+Views&color=0ea5e9&style=flat-square)](https://github.com/abhinaylab)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/abhinaylab?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/abhinaylab)
 
-💻 I enjoy building scalable applications, automation systems, and intelligent software solutions.
-
-🌱 Constantly learning and improving through projects, open-source contributions, and problem-solving.
-
-- 🔭 Currently working on **Data Structures & Algorithms**
-- 🌱 Learning **AI Systems, Cloud Computing, Advanced Java & Full Stack Development**
-- 👯 Looking to collaborate on **Open Source Projects & GSoC**
-- 💡 Interests: **Artificial Intelligence, Automation, Web Development & Game Development**
-- ⚡ Fun Fact: **I love building JARVIS-style AI systems**
-
-📫 Reach me at:
-
-**abhinaysrivastava11@outlook.com**
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## About
+
+I'm a Java backend developer focused on building production-ready applications with **Spring Boot**, clean architecture, and solid fundamentals. Currently deepening expertise in JWT Security, Microservices, and System Design — while consistently practising DSA.
+
+```java
+public class AbhinaySrivastava {
+
+    private final String role     = "Java Backend Developer";
+    private final String location = "India";
+    private final String goal     = "Software Engineer @ a product company";
+
+    private final String[] learning = {
+        "Spring Boot", "JWT Security", "Microservices", "System Design", "DSA"
+    };
+
+    private final String[] building = {
+        "Hospital Management System",
+        "Recruitment Management System"
+        
+    };
+
+    public String contact() {
+        return "abhinaysrivastava11@outlook.com";
+    }
+}
+```
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0ea5e9?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & IDEs**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🏥 Hospital Management System
+> Spring Core · Dependency Injection · Bean Lifecycle · UML · HLD/LLD
+
+A well-architected hospital management backend built to learn and demonstrate Spring Core concepts — including bean lifecycle management, dependency injection patterns, and layered design through UML diagrams.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Practice_HMS.git)
+
+---
+
+### 🎯 Recruitment Management System
+>Google APIs · Resume Screening · Candidate Ranking
+
+End-to-end recruitment platform with automated resume screening and candidate ranking. Integrates Firebase for real-time data sync and Google APIs for document parsing.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/kuldeepkaashyapp/Rms)
+
+---
+
+## Progress
+
+<div align="center">
+
+### Spring Boot Journey
+
+| | Skill | Progress | Level |
+|:---:|:---|:---:|:---:|
+| <img width="20" src="https://skillicons.dev/icons?i=java"/> | Core Java | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=java"/> | Advanced Java | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Core | ![](https://geps.dev/progress/100?successColor=22c55e) | `Advanced` |
+| <img width="20" src="https://skillicons.dev/icons?i=spring"/> | Spring Boot | ![](https://geps.dev/progress/80?successColor=3b82f6) | `Proficient` |
+| <img width="20" src="https://skillicons.dev/icons?i=nginx"/> | JWT Security | ![](https://geps.dev/progress/80?successColor=f59e0b) | `Intermediate` |
+| <img width="20" src="https://skillicons.dev/icons?i=kubernetes"/> | Microservices | ![](https://geps.dev/progress/50?successColor=ef4444) | `Learning` |
+
+<br/>
+
+### DSA Roadmap
+
+![](https://img.shields.io/badge/Arrays_%26_Strings-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Linked_List-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Stack_%26_Queue-✔_Solved-27500a?style=for-the-badge&labelColor=22c55e)
+![](https://img.shields.io/badge/Trees_%26_Binary_Search-⟳_In_Progress-0c447c?style=for-the-badge&labelColor=3b82f6)
+![](https://img.shields.io/badge/Graphs-⟳_In_Progress-0c447c?style=for-the-badge&labelColor=3b82f6)
+![](https://img.shields.io/badge/Dynamic_Programming-◷_Upcoming-633806?style=for-the-badge&labelColor=f59e0b)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## Certifications
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Oracle-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
+      <b>Java Fundamentals</b><br/>
+      <sub>Oracle</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br/>
+      <b>Spring Framework</b><br/>
+      <sub>Spring Academy</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+      <b>Git &amp; GitHub</b><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/DSA-Certified-7F77DD?style=for-the-badge&logo=leetcode&logoColor=white"/><br/>
+      <b>Data Structures &amp; Algorithms</b><br/>
+      <sub>Course</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Cloud-Fundamentals-1D9E75?style=for-the-badge&logo=googlecloud&logoColor=white"/><br/>
+      <b>Cloud Fundamentals</b><br/>
+      <sub>AWS / GCP</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/abhinay-srivastava-2005g5" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
 
-<a href="mailto:abhinaysrivastava11@outlook.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
-
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
-</p>
-
-## AI / ML / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-## Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
-</p>
-
-## Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,godot,blender" />
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🎯 Active Open Source Learner
-- 💻 Consistent DSA Practice
-- 🚀 Multiple AI & Web Projects Built
-- 🌱 GSoC Aspirant
-- 📚 B.Tech Computer Science Student
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaylab&theme=tokyonight&hide_border=true"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepkaashyapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep-kumar-kashyap)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kuldeepkashyap0206)
+[![Resume](https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K_HdBsetse0F3SDf5LcLRt-quOAtZ7WL/view)
 
 </p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhinaylab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-Add your coding profile links here:
-
-- 🔥 LeetCode
-- ⚡ Codeforces
-- 📚 GeeksforGeeks
-- 🏆 HackerRank
-
----
-
-# 📚 Currently Learning
-
-- Advanced Java
-- Cloud Computing
-- AI Agents
-- Machine Learning
-- System Design
-- Competitive Programming
 
 ---
 
 <div align="center">
 
-### 💖 Thanks for Visiting My Profile!
-
-⭐ If you like my work, consider following me and checking out my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
 </div>
