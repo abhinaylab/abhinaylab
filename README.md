@@ -80,7 +80,7 @@ public class AbhinaySrivastava {
 ### 🧠 Problem Solving
 
 <p align="center">
-<img src="https://leetcard.abhinaylabs.com/veer24-tech?theme=dark&font=baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/abhinaylabs?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
