@@ -232,7 +232,9 @@ public class Abhinay {
 
 <div align="center">
 
-### 💡 Consistency beats intensity when intensity is temporary.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 </div>
 
