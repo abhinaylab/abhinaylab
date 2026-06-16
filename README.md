@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,50:0F4C81,100:38BDF8&text=Abhinay%20Srivastava&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Future%20Full%20Stack%20Developer%20|%20Java%20|%20React%20|%20DSA&descAlignY=58"/>
 
-# 👋 Hi, I'm Abhinay Srivastava
-
-### Frontend Developer • Java Developer • Future Full Stack Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer+Intern;Java+Developer;Learning+Spring+Boot;DSA+Enthusiast;Future+Full+Stack+Engineer" />
 
@@ -13,6 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinaysrivastava11)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinaylab)
 [![Codolio](https://img.shields.io/badge/Codolio-F97316?style=for-the-badge)](https://codolio.com/profile/abhinaylabs)
+
+
+<img src="https://komarev.com/ghpvc/?username=abhinaylab&color=00ff41&label=Profile+Visits&style=flat-square"/>
+
 
 </div>
 
@@ -121,32 +122,23 @@ public class Abhinay {
 
 ---
 
-# 🧠 Problem Solving
+## 🧠 Problem Solving
 
-```text
-Total Questions Solved : 161
-DSA Problems Solved    : 109
-Easy                  : 25
-Medium                : 65
-Hard                  : 19
-Current Streak        : 13 Days
-```
+<div align="center">
 
-### Strong Areas
+<img src="https://leetcard.jacoblin.cool/abhinaylabs?theme=dark&font=baloo&ext=heatmap"/>
 
-✔ Arrays
+<br><br>
 
-✔ Strings
+<img src="https://img.shields.io/badge/Questions-161-3B82F6?style=for-the-badge"/>
 
-✔ Dynamic Programming
+<img src="https://img.shields.io/badge/DSA-109-22C55E?style=for-the-badge"/>
 
-✔ Two Pointers
+<img src="https://img.shields.io/badge/Active_Days-28-F59E0B?style=for-the-badge"/>
 
-✔ HashMap & Set
+<img src="https://img.shields.io/badge/Streak-13_Days🔥-EF4444?style=for-the-badge"/>
 
-✔ Sorting
-
-✔ Greedy Algorithms
+</div>
 
 ---
 
@@ -160,13 +152,105 @@ Current Streak        : 13 Days
 
 ---
 
-# 📜 Certifications
+## 🏆 Certifications
 
-- Frontend Developer (React) – HackerRank
-- AWS Academy Cloud Foundations
-- Deloitte Technology Job Simulation
-- OPSWAT ICIP
-- Statistics using R and Python
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🟢 Frontend Developer (React)
+
+![HackerRank](https://img.shields.io/badge/HackerRank-React-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+<br><br>
+
+HackerRank
+
+<br><br><br>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟠 AWS Academy Cloud Foundations
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br><br>
+
+Amazon Web Services
+
+<br><br><br>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔵 Critical Infrastructure Protection
+
+![OPSWAT](https://img.shields.io/badge/OPSWAT-ICIP-0052CC?style=for-the-badge)
+
+<br><br>
+
+OPSWAT Academy
+
+<br><br><br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🔷 Technology Job Simulation
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Technology_Simulation-0A66C2?style=for-the-badge)
+
+<br><br>
+
+Deloitte Australia
+
+<br><br><br>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔷 Statistics Using R & Python
+
+![TCS](https://img.shields.io/badge/TCS-R_&_Python-005A9C?style=for-the-badge)
+
+<br><br>
+
+Tata Consultancy Services
+
+<br><br><br>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟢 Software Developer Internship
+
+![RCS](https://img.shields.io/badge/RCS_Global-Internship-success?style=for-the-badge)
+
+<br><br>
+
+RCS Global
+
+<br><br><br>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -196,16 +280,6 @@ Current Streak        : 13 Days
 
 ---
 
-# 🎯 2026 Goals
-
-- Become a Full Stack Developer
-- Build impactful projects
-- Master Spring Boot
-- Improve DSA skills
-- Learn System Design
-- Contribute consistently on GitHub
-
----
 
 # 🌐 Connect With Me
 
