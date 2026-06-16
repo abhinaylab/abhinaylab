@@ -51,17 +51,17 @@ public class Abhinay {
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Journey
 
-- Building responsive web applications
-- Learning Spring Boot
-- Practising Data Structures & Algorithms
-- Exploring Full Stack Development
-- Growing as a software engineer every day
+- 🌱 Learning Spring Boot & Backend Development
+- ⚛️ Building React Applications
+- ☕ Strengthening Java Fundamentals
+- 🧠 Solving DSA Problems Daily
+- 🎯 Becoming a Full Stack Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -72,57 +72,59 @@ public class Abhinay {
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend (Learning)
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-0ea5e9?style=for-the-badge)
 
 ### Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 💼 Experience
 
-## Frontend Developer Intern
-### Alfido Tech
+### Frontend Developer Intern — Alfido Tech
 
-- Developing responsive web applications
-- Working with frontend technologies
-- Collaborating in real-world development environments
+- Developed responsive web applications
+- Worked with React and JavaScript
+- Collaborated in real-world development workflows
 
----
-
-## Software Developer Intern
-### RCS Global
+### Software Developer Intern — RCS Global
 
 - Contributed to Recruitment Management System
-- Worked on authentication systems
-- Gained real-world software development experience
+- Worked on authentication and database modules
+- Gained practical software development experience
+
+### Vice President — ACM Student Chapter
+
+- Organized technical events
+- Promoted coding culture
+- Guided students in technology activities
 
 ---
 
-## Vice President
-### ACM Student Chapter – Rama University
+# 🚀 Featured Projects
 
-- Organizing technical events
-- Supporting coding activities
-- Building student developer community
+| Project | Description |
+|----------|------------|
+| 🏥 MediLocator AI | Smart healthcare assistance platform |
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
 <div align="center">
 
@@ -140,123 +142,51 @@ public class Abhinay {
 
 </div>
 
----
-
-# 🏆 Achievements
-
-- Java Award on Codolio
-- Active Problem Solver
-- Frontend Developer Intern at Alfido Tech
-- Software Developer Intern at RCS Global
-- Vice President ACM Student Chapter
-
----
-
-## 🏆 Certifications
+<br>
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://leetcode.com/abhinaylabs">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<td width="33%" align="center">
-
-### 🟢 Frontend Developer (React)
-
-![HackerRank](https://img.shields.io/badge/HackerRank-React-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-<br><br>
-
-HackerRank
-
-<br><br><br>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🟠 AWS Academy Cloud Foundations
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br><br>
-
-Amazon Web Services
-
-<br><br><br>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔵 Critical Infrastructure Protection
-
-![OPSWAT](https://img.shields.io/badge/OPSWAT-ICIP-0052CC?style=for-the-badge)
-
-<br><br>
-
-OPSWAT Academy
-
-<br><br><br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🔷 Technology Job Simulation
-
-![Deloitte](https://img.shields.io/badge/Deloitte-Technology_Simulation-0A66C2?style=for-the-badge)
-
-<br><br>
-
-Deloitte Australia
-
-<br><br><br>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔷 Statistics Using R & Python
-
-![TCS](https://img.shields.io/badge/TCS-R_&_Python-005A9C?style=for-the-badge)
-
-<br><br>
-
-Tata Consultancy Services
-
-<br><br><br>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🟢 Software Developer Internship
-
-![RCS](https://img.shields.io/badge/RCS_Global-Internship-success?style=for-the-badge)
-
-<br><br>
-
-RCS Global
-
-<br><br><br>
-
-</td>
-
-</tr>
-</table>
+<a href="https://codolio.com/profile/abhinaylabs">
+<img src="https://img.shields.io/badge/Codolio-Profile-F97316?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
+# 🏆 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HackerRank-React-00EA64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPSWAT-ICIP-0052CC?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deloitte-Technology_Simulation-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TCS-R_&_Python-005A9C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RCS_Global-Internship-success?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=github-dark&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaylab&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -280,25 +210,20 @@ RCS Global
 
 ---
 
-
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/abhinaylab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/abhinaysrivastava11">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:abhinaysrivastava11@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/abhinaylabs">
-<img src="https://img.shields.io/badge/Codolio-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
