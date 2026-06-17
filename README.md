@@ -196,7 +196,7 @@ public class Abhinay {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinaylab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaylab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
