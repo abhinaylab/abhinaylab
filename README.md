@@ -51,16 +51,6 @@ public class Abhinay {
 
 ---
 
-# 🚀 Current Journey
-
-- 🌱 Learning Spring Boot & Backend Development
-- ⚛️ Building React Applications
-- ☕ Strengthening Java Fundamentals
-- 🧠 Solving DSA Problems Daily
-- 🎯 Becoming a Full Stack Software Engineer
-
----
-
 # 🛠️ Tech Stack
 
 ### Languages
